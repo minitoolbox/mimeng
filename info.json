@@ -1,39 +1,70 @@
 {
-
 	"Item": {
 		"name": "道具",
-		"version": "1.24.30"
+		"version": "1.25.6"
 	},
-	"Actor": {
+	"Block": {
+		"name": "方块",
+		"version": "1.25.6"
+	},
+	"Creature": {
 		"name": "生物",
-		"version": "1.23.0"
+		"version": "1.25.6"
 	},
-	"ActorModel": {
-		"name": "生物模型",
-		"version": "1.23.0"
+	"Horse": {
+		"name": "坐骑",
+		"version": "1.25.6"
+	},
+	"Projectile": {
+		"name": "投掷物",
+		"version": "1.25.6"
+	},
+	"Crafting": {
+		"name": "配方",
+		"version": "1.25.6"
+	},
+	"Act": {
+		"name": "动作",
+		"version": "1.25.6"
+	},
+	"Animact": {
+		"name": "表情",
+		"version": "1.25.6"
+	},
+	"Enchant": {
+		"name": "新附魔",
+		"version": "1.25.6"
+	},
+	"EnchantOld": {
+		"name": "旧附魔",
+		"version": "1.25.6"
+	},
+	"Sound": {
+		"name": "音效",
+		"version": "1.25.6"
 	},
 	"Buff": {
 		"name": "Buff",
-		"version": "1.23.0"
+		"version": "1.25.6"
 	},
-	"GlobalEffect": {
-		"name": "全局效果",
-		"version": "1.23.0"
+	"Particles": {
+		"name": "特效",
+		"version": "1.25.6"
+	},
+	"ParticlesPath": {
+		"name": "特效路径",
+		"version": "1.25.6"
 	},
 	"Skin": {
-		"name": "装扮",
-		"version": "1.23.0"
-	},
-	"SkinIcon": {
-		"name": "装扮图标",
-		"version": "1.23.0"
-	},
-	"SkinModel": {
-		"name": "装扮模型",
-		"version": "1.23.0"
+		"name": "皮肤",
+		"version": "1.25.6"
 	},
 	"CustomSkin": {
 		"name": "自定义装扮",
 		"version": "1.23.0"
+	},
+	"APIID": {
+		"name": "渠道",
+		"version": "1.25.6"
 	}
 }
