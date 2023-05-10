@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="cn">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ID查询器</title>
+    <link rel="shortcut icon" href="./icon.png">
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./Qmsg.min.css">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+  </head>
+  <body>
+    <div id="search-bar">
+      <form id="search-input">
+        <input type="text" placeholder="搜索ID或名称"></input>
+      </form>
+      <img id="search-button" src="/images/icon/search.svg" oncontextmenu="return false">
+    </div>
+    <div id="types" onselectstart="return false" oncontextmenu="return false"></div>
+    <div id="main" onselectstart="return false" oncontextmenu="return false">
+      <div id="left"></div>
+      <div id="hr"></div>
+      <div id="right"></div>
+    </div>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="./Qmsg.min.js"></script>
+    <script src="./mimeng.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

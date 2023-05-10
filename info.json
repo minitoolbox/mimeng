@@ -1,0 +1,39 @@
+{
+
+	"Item": {
+		"name": "道具",
+		"version": "1.24.30"
+	},
+	"Actor": {
+		"name": "生物",
+		"version": "1.23.0"
+	},
+	"ActorModel": {
+		"name": "生物模型",
+		"version": "1.23.0"
+	},
+	"Buff": {
+		"name": "Buff",
+		"version": "1.23.0"
+	},
+	"GlobalEffect": {
+		"name": "全局效果",
+		"version": "1.23.0"
+	},
+	"Skin": {
+		"name": "装扮",
+		"version": "1.23.0"
+	},
+	"SkinIcon": {
+		"name": "装扮图标",
+		"version": "1.23.0"
+	},
+	"SkinModel": {
+		"name": "装扮模型",
+		"version": "1.23.0"
+	},
+	"CustomSkin": {
+		"name": "自定义装扮",
+		"version": "1.23.0"
+	}
+}
